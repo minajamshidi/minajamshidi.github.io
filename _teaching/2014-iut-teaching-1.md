@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/2014-iut-teaching-1
 venue: "Isfahan University of Technology, Electrical Engineering Dept."
+date: 2014-09-01
 location: "Isfahan, Iran"
 ---
 2012-2014
