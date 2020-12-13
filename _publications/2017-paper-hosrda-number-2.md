@@ -13,4 +13,4 @@ This paper is a publication of my master thesis at [Sharif University of Technol
 
 You can download the codes from [my GitHub](https://github.com/minajamshidi/HOSRDA).
 
-Citation: <b>M. Jamshidi Idaji<\b>, M.B. Shamsollahi, S. Hajipour Sardoui, “Higher Order Spectral Regression Discriminant Analysis (HOSRDA): A Tensor Feature Re- duction Method for ERP Detection,” Pattern Recognition 70 (2017) 152-162. DOI: 10.1016/j.patcog.2017.05.004
+Citation: <b>M. Jamshidi Idaji</b>, M.B. Shamsollahi, S. Hajipour Sardoui, “Higher Order Spectral Regression Discriminant Analysis (HOSRDA): A Tensor Feature Re- duction Method for ERP Detection,” Pattern Recognition 70 (2017) 152-162. DOI: 10.1016/j.patcog.2017.05.004
