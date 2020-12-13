@@ -8,7 +8,7 @@ date: 2020-06-01
 location: "Online"
 ---
 
-prepared for a hands-on session of the course "Methods in Cognitive Neuroscience" at [Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition). June 2020.
+A hands-on session of the course "Methods in Cognitive Neuroscience" at [Max Planck School of Cognition](https://www.maxplanckschools.de/en/cognition). June 2020.
 
 The Jupyter Notebooks are accessible on [my GitHub](https://github.com/minajamshidi/Python-Tutorials/tree/master/EEG%20preprocessing).
 
