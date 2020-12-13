@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2016-sharif
+permalink: /teaching/2016-sharif-teaching-2
 venue: "Sharif University of Technology, Electrical Engineering Dept."
 date: 2015-2016
 location: "Tehran, Iran"
