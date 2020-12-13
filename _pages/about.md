@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year doctoral researcher a Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. I am also a member of Machine Learning Group at Technical University of Berlin. With a solid background in mathematics and machine learning, I am interested in brain network analysis, especially the networks computed from linear and non-linear interactions between neuronal oscillations recorded by EEG, MEG, ECoG.
+I am a fourth year doctoral researcher at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en), Leipzig, Germany, at the [Neural Interactions and Dynamics Group](https://www.cbs.mpg.de/departments/neurology/neural-interactions-and-dynamics) in the [Department of Neurology](https://www.cbs.mpg.de/departments/neurology). I am also a member of [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) at Technical University of Berlin. 
+
+With a solid background in mathematics and machine learning, I am interested in brain network analysis, especially the networks computed from linear and non-linear interactions between neuronal oscillations recorded by EEG, MEG, ECoG.
