@@ -6,5 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
 You can download my CV [here](http://minajamshidi.github.io/files/Jamshidi_CV_201909.pdf).
