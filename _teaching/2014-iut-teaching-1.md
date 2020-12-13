@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate Courses"
-permalink: /teaching/2014-iut
+permalink: /teaching/2014-iut-teaching-1
 venue: "Isfahan University of Technology, Electrical Engineering Dept."
 date: 2012-2014
 location: "Isfahan, Iran"
