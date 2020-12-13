@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-sharif-teaching-2
 venue: "Sharif University of Technology, Electrical Engineering Dept."
+date: 2016-09-01
 location: "Tehran, Iran"
 ---
 2015-2016
