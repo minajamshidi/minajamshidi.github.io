@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can download my CV [here](http://minajamshidi.github.io/files/Jamshidi_CV_201909.pdf).
+You can download my CV [here](http://minajamshidi.github.io/files/MinaJamshidiCV.pdf).
