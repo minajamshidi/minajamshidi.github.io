@@ -2,7 +2,7 @@
 title: "Higher order spectral regression discriminant analysis (HOSRDA): A tensor feature reduction method for ERP detection"
 collection: publications
 permalink: /publication/2017-paper-hosrda-number-2
-excerpt: 'M. Jamshidi Idaji, M.B. Shamsollahi, S. Hajipour Sardoui'
+excerpt: ' <b>M. Jamshidi Idaji</b>, M.B. Shamsollahi, S. Hajipour Sardoui'
 date: 2017-10-01
 venue: 'Pattern Recognition'
 ---
