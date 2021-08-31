@@ -11,7 +11,7 @@ author_profile: true
 
      Mina Jamshidi Idaji
      
-     Max Planck Institute for Human Cognitive and Brain Science
+     Max Planck Institute fuer Kognitions- und Neurowissenschaften
      
      Stephanstr. 1A 
      
