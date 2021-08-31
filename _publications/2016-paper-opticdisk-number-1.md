@@ -2,7 +2,7 @@
 title: "Automatic detection of the optic disc of the retina: A fast method"
 collection: publications
 permalink: /publication/2016-paper-opticdisk-number-1
-excerpt: 'M. Jamshidi Idaji, H. Rabbani, Z. Amini, R. Kafieh, A. Ommani, V. Lakshminarayanan'
+excerpt: ' <b>M. Jamshidi Idaji</b>, H. Rabbani, Z. Amini, R. Kafieh, A. Ommani, V. Lakshminarayanan'
 date: 2016-01-01
 venue: 'Journal of medical signals and sensors'
 ---
