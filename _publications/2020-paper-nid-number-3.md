@@ -2,7 +2,7 @@
 title: "Nonlinear Interaction Decomposition (NID): A Method for Separation of Cross-frequency Coupled Sources in Human Brain"
 collection: publications
 permalink: /publication/2020-paper-nid-number-3
-excerpt: 'M. Jamshidi Idaji, K.R. Müller, G. Nolte, B. Maess, A. Villringer, V.V. Nikulin'
+excerpt: ' <b>M. Jamshidi Idaji</b>, K.R. Müller, G. Nolte, B. Maess, A. Villringer, V.V. Nikulin'
 date: 2020-05-20
 venue: 'NeuroImage'
 ---
