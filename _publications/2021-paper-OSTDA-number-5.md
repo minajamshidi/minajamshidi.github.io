@@ -1,0 +1,17 @@
+---
+title: "Oscillatory Source Tensor Discriminant Analysis (OSTDA): a regularized tensor pipeline for
+SSVEP-based BCI systems"
+collection: publications
+permalink: /publication/2021-paper-OSTDA-number-5
+excerpt: 'T. Jorajuría*, <b>M. Jamshidi Idaji*</b>, Z. İşcan, M. Gómez, V.V. Nikulin, C. Vidaurre (*Both
+authors contributed equally.)'
+date: 2021-06
+venue: 'Neurocomputing'
+---
+
+Citation: T. Jorajuría*, <b>M. Jamshidi Idaji*</b>, Z. İşcan, M. Gómez, V.V. Nikulin, C. Vidaurre, (2021) “Oscillatory Source Tensor Discriminant Analysis (OSTDA): a regularized tensor pipeline for
+SSVEP-based BCI systems,” Neurocomputing, accepted. <b>*Both
+authors contributed equally.</b>
+
+
+
