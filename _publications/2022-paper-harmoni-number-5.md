@@ -1,7 +1,7 @@
 ---
 title: "Harmoni: A method for eliminating spurious interactions due to the harmonic components in neuronal data"
 collection: publications
-permalink: /publication/2022-paper-harmoni-number-5.md
+permalink: /publication/2022-paper-harmoni-number-5
 excerpt: '<b>M. Jamshidi Idaji</b>, J. Zhang, T. Stephani, G. Nolte, K. R. Müller, A. Villringer, V.V. Nikulin'
 date: 2022-05-12
 venue: 'NeuroImage'
