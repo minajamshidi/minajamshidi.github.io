@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-mps-eeg-teaching-4
 venue: "Max Planck School of Cognition"
-date: 2020-06-01
+date: 2020-06-01 to 2022-06-01
 location: "Online"
 ---
 
