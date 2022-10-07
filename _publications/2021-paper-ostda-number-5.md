@@ -13,5 +13,6 @@ Citation: T. Jorajuría*, <b>M. Jamshidi Idaji*</b>, Z. İşcan, M. Gómez, V.V.
 SSVEP-based BCI systems,” Neurocomputing, accepted. <b>*Both
 authors contributed equally.</b>
 
+* This paper is published open-access in [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231221018956).
 
 
