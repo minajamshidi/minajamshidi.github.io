@@ -1,5 +1,5 @@
 ---
-title: "Tutor - Into to Graph Theory"
+title: "Tutor - Intro to Graph Theory"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-coconut-teaching-6
