@@ -9,9 +9,12 @@ author_profile: true
 
 * Postal Address: 
 
-     Mina Jamshidi Idaji \n
+     Mina Jamshidi Idaji
+     
      Technische Universität Berlin
      
      Sekretariat MAR 4-1
+     
      Marchstr. 23
+     
      10587 Berlin
