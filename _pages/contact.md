@@ -5,14 +5,14 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: jamshidi [at] cbs.mpg.de
+* E-mail: mina.jamshidi.idaji [at] tu-berlin.de
 
 * Postal Address: 
 
      Mina Jamshidi Idaji
      
-     Max Planck Institute fuer Kognitions- und Neurowissenschaften
+     Sekretariat MAR 4-1
      
-     Stephanstr. 1A 
+     Marchstr. 23
      
-     04103 Leipzig, Germany
+     10587 Berlin
