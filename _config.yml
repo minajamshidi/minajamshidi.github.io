@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mina Jamshidi Idaji"
 title_separator          : "-"
 name                     : &name "Mina Jamshidi Idaji"
-description              : &description "Doctoral Researcher"
+description              : &description "Postdoctoral Researcher"
 url                      : https://minajamshidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minajamshidi/minajamshidi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mina Jamshidi"
   avatar           : "minajamshidi.jpg"
-  bio              : "Doctoral Researcher | Machine Learning + Neuroscience"
+  bio              : "Postdoctoral Researcher | Machine Learning + Neuroscience"
   location         : "Leipzig, Germany"
   employer         : "MPI CBS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=S3ybh7cAAAAJ&hl=en"
-  email            : "jamshidi@cbs.mpg.de"
+  email            : "mina.jamshidi.idaji@tu-berlin.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
