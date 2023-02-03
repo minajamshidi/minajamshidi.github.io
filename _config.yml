@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mina Jamshidi Idaji"
 title_separator          : "-"
 name                     : &name "Mina Jamshidi Idaji"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Machine Learning Researcher"
 url                      : https://minajamshidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minajamshidi/minajamshidi.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mina Jamshidi"
+  name             : "Dr. Mina Jamshidi"
   avatar           : "minajamshidi.jpg"
   bio              : "Machine Learning Researcher | Machine Learning + Signal Processing"
   location         : "Germany"
