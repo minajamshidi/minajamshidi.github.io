@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-paper-harmoni-number-6
 excerpt: 'J. Hense*, <b>M. Jamshidi Idaji*</b>, et al.'
 date: 2024-12-01
-venue: 'NeurIPS2024'
+venue: 'NeurIPS'
 ---
 
 Citation: J. Hense*, <b>M. Jamshidi Idaji*</b>, O. Eberle, T. Schnake, J. Dippel, L. Ciernik, O. Buchstab, A. Mock, F. Klauschen, K.-R. Müller, 2024, "xMIL: Insightful Explanations for Multiple Instance Learning in Histopathology", In Advances in Neural Information Processing Systems, vol. 37, pp. 8300–8328. DOI: 10.52202/079017-0266, <b>*=equal contribution</b>
