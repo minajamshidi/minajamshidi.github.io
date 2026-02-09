@@ -9,6 +9,19 @@ author_profile: true
 
 {% include base_path %}
 
+## AI in oncology
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.path contains "number-6" or post.path contains "number-7" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
+## NeuroImaging ML Method developement
+
+{% for post in site.publications reversed %}
+  {% if post.path contains "number-1" or post.path contains "number-2" or post.path contains "number-3" or post.path contains "number-4" or post.path contains "number-5" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
