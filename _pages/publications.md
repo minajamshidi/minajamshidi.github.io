@@ -19,9 +19,9 @@ author_profile: true
 
 
 ## NeuroImaging ML Method developement
-
+During my PhD research, I worked on developing multivariate ML methods for analyzing brain time-series. Through these works, 
 {% for post in site.publications reversed %}
-  {% if post.path contains "number-1" or post.path contains "number-2" or post.path contains "number-3" or post.path contains "number-4" or post.path contains "number-5" %}
+  {% if post.path contains "number-2" or post.path contains "number-3" or post.path contains "number-5" or post.path contains "number-8" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
