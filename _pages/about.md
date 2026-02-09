@@ -7,9 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am a research scientist at [BIFOLD](https://bifold.berlin/) and a postdoctoral researcher at the [machine learning group](https://www.ml.tu-berlin.de/menue/machine_learning/) at TU Berlin, under [Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/).
+Currently, I am a Machine learning research scientist at [BIFOLD](https://bifold.berlin/), at the [machine learning group](https://www.ml.tu-berlin.de/) at TU Berlin.
+
+In my current research, I am focused on AI in oncology. I am interested in building interpretable, reproducible, and robust machine learning pipelines. I've worked with various data modalities, including whole-slide images (WSI), single-cell and bulk RNAseq, as well as spatial transcriptomics. Some of my ongoing and most recent research projects are:
+
+* xMIL: A framework for better explanation of multiple instance learning (MIL) and evaluating heatmaps. We show how XAI can be used to validate MIL models and do discovery using XAI heatmaps [[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/94728), and soon: an upcoming preprint, see [Codes](https://github.com/bifold-pathomics/xMIL)].
+* Spatial-Pathway-Mapping: We introduce how XAI heatmaps can be used to infer signaling pathway activities directly from routine H&E slides, enabling in-silico spatial molecular readouts from standard histology. We show in a large in-house HNSCC cohort of 1,066 slides that our XAI-based index, TAPAS, captures intratumoral heterogeneity and can stratify patients [[Preprint](https://www.biorxiv.org/content/10.1101/2025.11.24.689710v1.full.pdf)].
+* End-to-end survival prediction from single cell RNAseq.
+* Survival prediction using multimodal AI and using XAI for learning the interactions of different modalities.
+* Weak supervision in oncological settings.
 
 
-From 2018-2022, I was a doctoral researcher at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany. I worked at the [Neural Interactions and Dynamics Group](https://www.cbs.mpg.de/departments/neurology/neural-interactions-and-dynamics) in the [Department of Neurology](https://www.cbs.mpg.de/departments/neurology) with [Dr. Vadim V. Nikulin](https://www.cbs.mpg.de/person/51719/371395) and [Prof. Arno Villringer](https://www.cbs.mpg.de/employees/villringer). I was also externally supervised by [Prof. Klaus-Robert Müller](https://www.ml.tu-berlin.de/menue/members/klaus-robert_mueller/) from TU Berlin. In my phd research I developed novel methods for detection and separation of genuine non-linear interactions in EEG/MEG data. I received my Ph.D. (Dr. -Ing.) from the ECE faculty of Berlin University of Technology in September 2022.
+From 2018-2022, I was a doctoral researcher at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany. In my phd research I developed novel methods for detection and separation of genuine non-linear interactions in EEG/MEG data. I received my Ph.D. (Dr. -Ing.) from the ECE faculty of TU Berlin in September 2022.
 
 Prior to that, I got my M.Sc. degree in biomedical engineering from the electrical engineering faculty of Sharif University of Technology, Tehran, Iran (2016), and my dual B.Sc. degree in electrical engineering and mathematics from Isfahan University of Technology, Isfahan, Iran (2014).
