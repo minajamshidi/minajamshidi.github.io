@@ -39,7 +39,17 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% assign start_year = post.date | default: "1900-01-01" | date: "%Y" %}
+          {% if post.date_end %}
+            {% if post.date_end == "present" or post.date_end == "now" %}
+              {% assign end_label = "Present" %}
+            {% else %}
+              {% assign end_label = post.date_end | date: "%Y" %}
+            {% endif %}
+            <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ start_year }}–{{ end_label }} </p>
+          {% else %}
+            <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ start_year }} </p>
+          {% endif %}
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}

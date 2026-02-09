@@ -35,7 +35,17 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% assign start_year = page.date | default: "1900-01-01" | date: "%Y" %}
+          {% if page.date_end %}
+            {% if page.date_end == "present" or page.date_end == "now" %}
+              {% assign end_label = "Present" %}
+            {% else %}
+              {% assign end_label = page.date_end | date: "%Y" %}
+            {% endif %}
+            <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ start_year }}–{{ end_label }} </p>
+          {% else %}
+            <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ start_year }} </p>
+          {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
