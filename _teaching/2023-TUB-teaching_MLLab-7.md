@@ -5,6 +5,7 @@ type: "Course"
 permalink: /teaching/2023-TUB-teaching_MLLab-7
 venue: "Machine Learning Group @ TU Berlin"
 date: 2023-04-15
+date_end: present
 location: "TU Berlin - in person"
 ---
 
