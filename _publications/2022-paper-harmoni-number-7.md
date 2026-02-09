@@ -7,10 +7,6 @@ date: 2025-12
 venue: 'bioRxiv'
 ---
 
-
-{\href{https://doi.org/10.1101/2025.11.24.689710}{ \ExternalLink}\textbf{* equal contribution}} 
-
-
 Citation: J. Hense*, <b>M. Jamshidi Idaji*</b>, L. Ciernik, J. Dippel, F. Ersan, M. Knebel, A. Pusztai, A. Sendelhofert, O. Buchstab, S.Fröhling, S. Otto, J. Hess, P. Liokatis, F. Klauschen, K.-R. Müller, A. Mock, 2025. "Digital Spatial Pathway Mapping Reveals Prognostic Tumor States in Head and Neck Cancer", bioRxiv, DOI: 10.1101/2025.11.24.689710, <b>*=equal contribution</b>
 
 * The paper is accessible through [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.24.689710v1.full.pdf)

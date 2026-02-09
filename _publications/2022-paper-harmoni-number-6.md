@@ -7,10 +7,6 @@ date: 2024-12
 venue: 'NeurIPS2024'
 ---
 
-
-{\href{https://doi.org/10.1101/2025.11.24.689710}{ \ExternalLink}\textbf{* equal contribution}} 
-
-
 Citation: J. Hense*, <b>M. Jamshidi Idaji*</b>, O. Eberle, T. Schnake, J. Dippel, L. Ciernik, O. Buchstab, A. Mock, F. Klauschen, K.-R. Müller, 2024, "xMIL: Insightful Explanations for Multiple Instance Learning in Histopathology", In Advances in Neural Information Processing Systems, vol. 37, pp. 8300–8328. DOI: 10.52202/079017-0266, <b>*=equal contribution</b>
 
 * The paper is accessible through [NeurIPS 2024](https://neurips.cc/virtual/2024/poster/94728).
