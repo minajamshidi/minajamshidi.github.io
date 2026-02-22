@@ -20,9 +20,8 @@ I've worked with various data modalities, including whole-slide images (WSI), si
 * Survival prediction using multimodal AI and using XAI for learning the interactions of different modalities.
 * Weak supervision in oncological settings.
 
-**AI for physiological signal**
-
-I am interested in robust processing of physioloical data. 
+**AI for physiological signals**
+I am interested in robust processing of physioloical data:
 
 * Robustness of foundation models for EEG data
 * Blind source separation of geniune sources from EEG/MEG data 
