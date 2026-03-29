@@ -1,7 +1,7 @@
 ---
 title: "xMIL: Insightful Explanations for Multiple Instance Learning in Histopathology"
 collection: publications
-permalink: /publication/2022-paper-harmoni-number-6
+permalink: /publication/2024-paper-xmil-number-6
 excerpt: 'J. Hense*, <b>M. Jamshidi Idaji*</b>, et al.'
 date: 2024-12-01
 venue: 'NeurIPS'

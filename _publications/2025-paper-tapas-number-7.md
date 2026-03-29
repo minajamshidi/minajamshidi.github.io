@@ -1,7 +1,7 @@
 ---
 title: "Digital Spatial Pathway Mapping Reveals Prognostic Tumor States in Head and Neck Cancer"
 collection: publications
-permalink: /publication/2022-paper-harmoni-number-7
+permalink: /publication/2025-paper-tapas-number-7
 excerpt: 'J. Hense*, <b>M. Jamshidi Idaji*</b>, et al.'
 date: 2025-12-01
 venue: 'bioRxiv'
