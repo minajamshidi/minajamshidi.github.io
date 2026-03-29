@@ -12,7 +12,7 @@ author_profile: true
 ## AI in oncology
 
 {% for post in site.publications reversed %}
-  {% if post.path contains "number-6" or post.path contains "number-7" %}
+  {% if post.path contains "number-6" or post.path contains "number-7" or post.path contains "number-9"%}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
